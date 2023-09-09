@@ -1,7 +1,7 @@
 # Noze Wipe
 A Voron nozzle wiper using silicone parts meant for the [Blackbox 3D Printer](https://layershift.xyz/blackbox3dprinter/). You can find these parts on [kb-3d](https://kb-3d.com/).
 
-![[FinalResult.png]]
+![](FinalResult.png)
 
 The point of this mod is to provide a non-abrasive specifically designed nozzle wipe that is compatible with [Voron-Tap](https://github.com/VoronDesign/Voron-Tap), [Nevermore](https://github.com/nevermore3d/Nevermore_Micro), and the [Kinematic Bed](https://github.com/tanaes/whopping_Voron_mods/tree/main/kinematic_bed) mods.
 ## BOM
